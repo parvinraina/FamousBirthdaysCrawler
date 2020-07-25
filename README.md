@@ -37,3 +37,4 @@ birthdays = famous.get_all_people_month('june')
 },....]
 
 ```
+[![Run on Repl.it](https://repl.it/badge/github/vncsms/FamousBirthdaysCrawler)](https://repl.it/github/vncsms/FamousBirthdaysCrawler)
